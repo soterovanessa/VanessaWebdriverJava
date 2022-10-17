@@ -1,4 +1,4 @@
-# Desafio - Selenium WebDriver Java
+# Projeto - Selenium WebDriver Java
 
 
 ## :hammer: Funcionalidade do projeto
@@ -15,8 +15,8 @@
 ## 🛠️ Abrir e rodar o projeto
 
 É necessário criar uma pasta para armazenar as imagens do screenshot.
-**Alterar o caminho da pasta na classe: OrcamentoTest ; linha 136.**
+**Alterar o caminho da pasta na classe: OrcamentoTest ; linha 136. (Se nescessário)**
 
 ## 📁 Acesso ao projeto projeto.
 
-O projeto está privado, você pode solicitar o acesso
+O projeto está public.
